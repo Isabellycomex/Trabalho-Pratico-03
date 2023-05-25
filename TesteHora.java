@@ -1,3 +1,7 @@
+\\Exercício 02
+\\Agora, desenvolva um programa capaz de testar a classe e os métodos desenvolvidos no
+\\exercício anterior.
+
 import java.util.Scanner;
 
 public class TesteHora {
